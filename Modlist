@@ -6,7 +6,6 @@ CROWN = {}
 
 DIAMOND = {}
 
---// Don't mess with anything below this
 function initiateNames()
 for _,v in pairs(game:GetService('Players'):GetChildren()) do
 		if MODS[v.UserId] then
