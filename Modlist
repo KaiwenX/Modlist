@@ -1,6 +1,6 @@
 MODS = {
     [2266148679] = true; -- caps lock
-    [2397051771] = true; -- bought prem
+    [2397051771] = true; -- 250R$
 }
 
 CROWN = {}
