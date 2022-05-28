@@ -2,6 +2,7 @@ MODS = {
     [2266148679] = true; -- caps lock
     [2397051771] = true; -- 250R$
     [295929784] = true; -- 500$
+    [3002989019] = true; -- Waxero
 }
 
 CROWN = {}
